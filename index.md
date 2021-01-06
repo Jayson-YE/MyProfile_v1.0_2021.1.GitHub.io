@@ -8,3 +8,19 @@
  - Master/University of Windsor/Electrical and computer engineering/2021-2022
  - New Grad
  - Technology Blog: http://new2021.github.io
+
+### 项目经历
+项目描述：
+
+职责描述：
+
+实用技术：
+
+### 开源贡献
+ - 待添加 
+
+### 技术文章
+ - 待添加
+ 
+### 技能清单
+ - 待添加
